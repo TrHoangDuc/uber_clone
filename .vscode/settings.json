@@ -3,5 +3,6 @@
   "editor.fontSize": 14,
   "editor.wordWrap": "on",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "eslint.format.enable": true
+  "eslint.format.enable": true,
+  "codeium.enableCodeLens": false
 }
